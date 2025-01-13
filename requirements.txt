@@ -1,0 +1,6 @@
+kagglehub
+keras
+keras-nlp
+datasets
+pandas
+matplotlib 
